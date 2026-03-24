@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic scene of a tailor obsessively crafting an extremely intricate suit that perfectly fits a distorted, unnatural mannequin with exaggerated proportions, while several normal human figures nearby try on identical suits that clearly do not fit them at all, workshop setting, cinematic lighting, highly detailed, realistic textures, no text, no labels, no diagrams, natural physical scene, symbolic of mismatch and over-specialization",
+  "model": "GPT Image 1",
+  "concept": "overfitting",
+  "metaphor": "A tailor perfectly fits a distorted mannequin but fails to fit real people, showing memorization instead of generalization"
+}
